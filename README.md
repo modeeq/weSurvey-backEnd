@@ -32,9 +32,9 @@ http://wesurvey.net
 
 ## Features
 
-* create, edit, delete and share surveys
+* Create, edit, delete and share surveys
 * View survey results
-* dashboard
+* Dashboard
 * Authentication
 * Password reset
 
